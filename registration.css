@@ -1,0 +1,22 @@
+body {
+    background-image: url(rr.jpg);
+     background-size:cover;
+}
+
+h1,div {
+    text-align: center;
+    
+}
+
+#text, #text1, #text2{
+    margin-left: 10px;
+}
+
+#s, #r, #branch ,#Section{
+    margin-left: 30px;
+}
+
+#xyz, #abc,#xy{
+    margin-left: 10px;
+}
+
